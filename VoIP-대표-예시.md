@@ -1,5 +1,7 @@
 # VoIP 가장 좋은 예시 (VoIP Best Practice)
 
+![PushKit](https://img.shields.io/badge/PushKit-67c7c3?style=for-the-badge&logo=swift&logoColor=white)
+
 VoIP 앱은 기기의 셀룰러 서비스가 대신 인터넷 연결을 사용하여 사용자가 전화를 걸고 받을 수 있도록 합니다.
 VoIP 앱은 네트워크에 의존하기 때문에 전화를 거는 동안 높은 에너지 사용량을 보입니다. 
 그리고 사용하지 않을 때는 에너지 절약을 위해 완전히 유휴(Idle) 상태이어야 합니다.
