@@ -1,5 +1,8 @@
 # 푸시킷 (PushKit)의 VoIP 알림에 대응하기
 
+![PushKit](https://img.shields.io/badge/PushKit-67c7c3?style=for-the-badge&logo=swift&logoColor=white)
+![CallKit](https://img.shields.io/badge/CallKit-66e268?style=for-the-badge&logo=swift&logoColor=white)
+
 ## VoIP 푸시 알림을 받고 시스템 통화 인터페이스를 띄우기
 
 만약 당신의 앱이 VoIP 서비스를 제공한다면 사용자 기기에 걸려오는 전화를 다루기 위해 푸시킷(`PushKit`)을 사용해야 합니다. 
